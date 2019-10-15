@@ -1,0 +1,17 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "rick",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.10"
+  }
+}
